@@ -2,7 +2,7 @@
 
 Project URL: https://github.com/mish-apoorva/Language-Translator-Using-Azure
 
-Demo URL: https://drive.google.com/drive/folders/1UukZufzko5Yd-htt_yRGTL3My9HUTDw7?usp=sharing
+Demo URL: https://drive.google.com/drive/folders/1DH3yAcP4WrNFo5PLjC4VZiTKSgJJu18Q?usp=sharing
 
 # Translator
 
